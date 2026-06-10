@@ -1,0 +1,8 @@
+# folders & artifacts
+__pycache__
+venv
+.DS_Store
+checkpoints
+
+# references
+example.py
